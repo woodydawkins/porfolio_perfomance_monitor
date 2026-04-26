@@ -1,0 +1,9 @@
+# Copy this file to config/redaction_terms.txt and replace with your real terms.
+# One term per line. Case-insensitive match.
+
+John Q Public
+123 Main Street, Springfield, XY 12345
+customer.id@example.com
++1 415 555 0101
+12644841
+TransactionBalance_12644841
